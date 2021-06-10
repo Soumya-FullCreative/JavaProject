@@ -1,10 +1,10 @@
 package io.full.soumya.p1;
 
-public interface Hotel {
+public interface HotelTimings {
 	void open();
 	void close();
 	
-/*	default void eat() {
+	/*	default void eat() {
 		System.out.println("Eat time in noon : 12-2");
 	}
 	static void sleep() {

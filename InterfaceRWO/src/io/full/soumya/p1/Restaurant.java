@@ -1,6 +1,6 @@
 package io.full.soumya.p1;
 
-public class Restaurant implements Hotel{
+public class Restaurant implements HotelTimings{
 
 	
 	public void open() {
