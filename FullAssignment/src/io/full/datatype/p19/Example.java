@@ -18,5 +18,8 @@ public class Example {
 	void m1(long l) {
 		System.out.println("long parm");
 	}
-
+/*	byte b1=20;
+	byte b2=30;
+	byte b4=(byte) (b1+b2);
+	*/
 }
