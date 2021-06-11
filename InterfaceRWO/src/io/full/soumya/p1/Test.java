@@ -6,6 +6,7 @@ public class Test {
 		NormalHotel n1=new NormalHotel();
 		n1.open();
 		n1.close();
+		n1.eat();
 	//	n1.eat();
 	//	Hotel.sleep();
 		

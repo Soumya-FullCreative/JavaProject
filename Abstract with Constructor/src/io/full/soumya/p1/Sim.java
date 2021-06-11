@@ -2,10 +2,11 @@ package io.full.soumya.p1;
 
 public abstract class Sim {
 	Sim(){
-		int a=10;
-		int b=20;
-		int c=a+b;
-
+		int x=10;
+		int y=20;
+		int z=x+y;
+		System.out.println(z);
+		
 		System.out.println("Sim constructor called");
 		
 	}

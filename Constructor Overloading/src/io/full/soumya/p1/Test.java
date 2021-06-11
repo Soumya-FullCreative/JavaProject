@@ -3,14 +3,12 @@ package io.full.soumya.p1;
 public class Test {
 
 	public static void main(String[] args) {
-		Bsnl b1=new Bsnl();
-		b1.call();
 		
-		System.out.println();
-		
-		Jio j1=new Jio();
-		j1.call();
-		
+		Student s1;
+		s1=new Student(10);
+		s1=new Student(5,"SK");
+		s1=new Student(15,"PK","Delhi");
+
 	}
 
 }

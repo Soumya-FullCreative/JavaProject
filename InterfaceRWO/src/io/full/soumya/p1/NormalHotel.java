@@ -1,6 +1,9 @@
 package io.full.soumya.p1;
 
 public class NormalHotel implements HotelTimings{
+	 public void eat() {
+		System.out.println("Eat time in noon : 12-3");
+	}
 
 	
 	public void open() {
