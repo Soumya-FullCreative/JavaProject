@@ -4,7 +4,7 @@ public class Jio extends Sim{
 	
 	
 	Jio(){
-		System.out.println("Jio constructor called");
+		super("jio");
 		
 	}
 

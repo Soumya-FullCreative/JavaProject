@@ -7,13 +7,14 @@ public class Student {
 	
 	public Student(int rollNo) {
 	
-	//	this(5,"hk");
+     	this(5,"hk");
 		this.rollNo = rollNo;
+     	
 		System.out.println("roll no is :"+rollNo);
 	}
 
 	public Student(int rollNo, String name) {
-	//	this(10,"Bk","HYD");
+		this(10,"Bk","HYD");
 		
 		this.rollNo = rollNo;
 		this.name = name;

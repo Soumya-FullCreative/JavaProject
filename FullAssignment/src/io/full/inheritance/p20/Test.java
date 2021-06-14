@@ -7,6 +7,7 @@ public class Test {
 		Student s1=new Student();
 		
 		s1.read();
+		s1.some();
 		
 
 	}

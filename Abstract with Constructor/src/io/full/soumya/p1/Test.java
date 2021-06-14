@@ -5,11 +5,13 @@ public class Test {
 	public static void main(String[] args) {
 		Bsnl b1=new Bsnl();
 		b1.call();
+		System.out.println(b1.name);
 		
 		System.out.println();
 		
 		Jio j1=new Jio();
 		j1.call();
+		System.out.println(j1.name);
 		
 	}
 

@@ -6,10 +6,11 @@ public class Test {
 		BankAccount acc1=new BankAccount();
 		
 		acc1.setBalance(5000);
-		System.out.println(acc1.getBalance());
+		System.out.println("Your balance is :"+acc1.getBalance());
 		
-		acc1.setBalance(-2000);
-		System.out.println(acc1.getBalance());
+		
+	//	acc1.setBalance(-2000);
+	//	System.out.println(acc1.getBalance());
 		
 		
 
