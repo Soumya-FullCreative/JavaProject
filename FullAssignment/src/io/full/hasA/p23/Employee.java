@@ -23,8 +23,8 @@ public class Employee {
 
 
 	public static void main(String[] args) {
-		Address address1=new Address("Pmi","OD","india");  
-		Address address2=new Address("Aul","OD","india");  
+		Address address1=new Address("Pmi","OD","India");  
+		Address address2=new Address("Aul","OD","India");  
 		  
 		Employee e1=new Employee(111,"somu",address1);  
 		Employee e2=new Employee(112,"Ramu",address2);  
