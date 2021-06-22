@@ -7,12 +7,12 @@ import java.util.Arrays;
 public class Test {
 	
 	public static void main(String[] args) {
+		
 	
 		int[] ia =new int[] {1,2,3,4,5} ;	
 		double[] da;
 		da=new double[] {1,2,3};
 		
-
 		
 		
 		System.out.println("Before update :"+ia[3]);
