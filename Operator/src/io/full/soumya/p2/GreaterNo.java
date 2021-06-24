@@ -9,7 +9,7 @@ public class GreaterNo {
 	     
 		    // Largest among n1, n2 and n3
 		    max = (n1 > n2) ?
-		          (n1 > n3 ? n1 : n3) :
+		          (n1 > n3 ? n1 : n3) :   
 		          (n2 > n3 ? n2 : n3);
 		     
 		    // Print the largest number
