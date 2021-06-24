@@ -8,10 +8,6 @@ import io.full.soumya.p2.Example;
 public class LinkedListTest {
 
 	public static void main(String[] args) {
-	//	int [] arr=new int{1,2,3};
-	//	Object [] obj=new Object[4];
-	//	obj[0]="s";
-	//	obj[1]=2;
 		
 		LinkedList<Object> ll=new LinkedList<>();
 		ll.add("a"); 
