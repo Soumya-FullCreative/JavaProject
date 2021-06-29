@@ -1,6 +1,7 @@
 package io.full.soumya.p1;
 
 public interface HotelTimings {
+	
 	void open();
 	void close();
 	
